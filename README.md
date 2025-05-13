@@ -9,9 +9,9 @@
 ## 主要依赖
 
 - JDK 8 及以上
-- Eclipse IDE（推荐）
+- IDEA（必须）
 - MySQL 数据库
-- 依赖 jar 包（位于 lib 目录，或需自行下载并配置到 Eclipse Build Path）：
+- 依赖 jar 包（位于 lib 目录，或需自行下载并配置到 IDEA Build Path）：
   - c3p0-0.9.2.1.jar（数据库连接池）
   - mchange-commons-java-0.2.3.4.jar（c3p0 依赖）
   - mysql-connector-java-5.1.27-bin.jar（MySQL 驱动）
